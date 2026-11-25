@@ -1,0 +1,24 @@
+{
+ "slug": "come-contare-le-calorie-con-una-foto",
+ "title": "Come contare le calorie con una foto: guida pratica",
+ "description": "Contare le calorie con una foto è il modo più veloce per tenere un diario alimentare. Ecco come funziona, quanto è preciso e come fare foto migliori.",
+ "keyword": "come contare le calorie con una foto",
+ "date": "2026-11-25T09:05:00+01:00",
+ "html": "<p>Per contare le calorie con una foto basta fotografare il piatto con un'app che usa l'intelligenza artificiale: l'app riconosce gli alimenti, stima i grammi di ogni porzione e calcola calorie e macronutrienti in pochi secondi. Tu controlli il risultato, correggi se serve e salvi il pasto.</p>\n<p>È il modo più veloce per tenere un diario alimentare senza bilancia. Vediamo come funziona, quanto è preciso e come ottenere stime migliori.</p>\n<h2>Come funziona il conteggio delle calorie da foto</h2>\n<ol>\n<li><strong>Riconoscimento:</strong> l'intelligenza artificiale individua gli alimenti nel piatto, per esempio pasta, sugo, parmigiano e olio.</li>\n<li><strong>Stima delle porzioni:</strong> confronta le dimensioni del cibo con il piatto e gli oggetti vicini e stima i grammi.</li>\n<li><strong>Calcolo:</strong> cerca i valori nutrizionali di ogni alimento in un database e li moltiplica per i grammi stimati.</li>\n<li><strong>Verifica:</strong> tu controlli la lista e correggi porzioni o ingredienti prima di salvare.</li>\n</ol>\n<p>In Caloria tutto questo richiede pochi secondi, e il database include oltre 200.000 prodotti italiani, utile per piatti e prodotti della nostra cucina.</p>\n<h2>Quanto è precisa una stima da foto?</h2>\n<p>Una foto non è una bilancia. La stima è più precisa per piatti con alimenti ben distinti, come una bistecca con insalata, e meno per piatti in cui gli ingredienti sono mescolati o nascosti, come un risotto o una lasagna.</p>\n<p>La fonte di errore più comune sono i <strong>condimenti invisibili</strong>: olio, burro e salse. Un cucchiaio d'olio vale circa 90 kcal e in foto quasi non si vede. Per questo conviene sempre controllare se l'app li ha considerati e aggiungerli a mano se servono.</p>\n<p>Per l'obiettivo più comune, cioè capire quanto mangi e se sei vicino al tuo obiettivo giornaliero, una stima veloce registrata tutti i giorni è più utile di un conteggio perfetto fatto solo ogni tanto.</p>\n<h2>Come fare foto che danno stime migliori</h2>\n<ul>\n<li><strong>Fotografa dall'alto</strong> o con una leggera inclinazione, in modo che si veda tutto il piatto.</li>\n<li><strong>Lascia nell'inquadratura una posata</strong> o il bordo del piatto: aiutano a capire le dimensioni.</li>\n<li><strong>Usa una buona luce</strong>, possibilmente naturale, ed evita le ombre forti.</li>\n<li><strong>Fotografa prima di mangiare</strong> e, se avanzi qualcosa, correggi la porzione.</li>\n<li><strong>Un piatto per foto:</strong> se hai primo e secondo, fai due foto separate.</li>\n</ul>\n<h2>Quando conviene scrivere o scansionare</h2>\n<p>La foto non è sempre lo strumento migliore. Per i <strong>prodotti confezionati</strong>, come yogurt, biscotti o una barretta, lo scanner del codice a barre è più preciso perché legge i valori dell'etichetta. Per pasti veloci o fuori casa, puoi anche <strong>scrivere in chat</strong> cosa hai mangiato, per esempio «a pranzo un piatto di risotto ai funghi e un'insalata», e lasciare che l'app registri gli alimenti.</p>\n<h2>Errori da evitare</h2>\n<ul>\n<li><strong>Dimenticare bevande e snack:</strong> un cappuccino, un succo o una manciata di frutta secca contano.</li>\n<li><strong>Non correggere mai le porzioni:</strong> se sai di aver mangiato di più, aggiorna i grammi.</li>\n<li><strong>Puntare a obiettivi troppo bassi:</strong> mangiare troppo poco non è sano né sostenibile. Per obiettivi specifici fatti seguire da un medico o da un nutrizionista.</li>\n</ul>\n<h2>In sintesi</h2>\n<p>Contare le calorie con una foto rende il diario alimentare abbastanza veloce da farlo davvero, ogni giorno. Fotografa il piatto, controlla gli alimenti e i grammi, aggiungi i condimenti se mancano e salva. Dopo qualche settimana saprai riconoscere le porzioni anche a occhio.</p>",
+ "faq": [
+  {
+   "q": "Si possono contare le calorie senza bilancia?",
+   "a": "Sì. Una foto del piatto o la stima delle porzioni con misure di casa (cucchiai, tazze, il palmo della mano) danno valori indicativi sufficienti per tenere un diario alimentare."
+  },
+  {
+   "q": "L'app riconosce i piatti italiani?",
+   "a": "Caloria è pensata per la cucina italiana e il suo database contiene oltre 200.000 prodotti italiani. Puoi sempre correggere alimenti e grammi prima di salvare."
+  },
+  {
+   "q": "Contare le calorie con una foto è gratis?",
+   "a": "Caloria si scarica gratis su App Store e Google Play; alcune funzioni avanzate sono incluse nell'abbonamento Premium."
+  }
+ ],
+ "reading_minutes": 3,
+ "model": "redazione"
+}
